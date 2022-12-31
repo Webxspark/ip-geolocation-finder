@@ -1,0 +1,58 @@
+/*
+    * This source code was submitted by B.Alan Christofer to Codechef development team
+    * Distribution of this source code without permission is illegal
+    * To claim a valid licence, please contact copyright@webxspark.com for more info
+*/
+* {
+    font-family: Arial;
+}
+
+.hero-heading {
+    color: #18113d;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.hero-text-box {
+    margin-top: 30px;
+}
+
+.hero-text-box p {
+    font-size: 16px;
+}
+
+input[type="search"] {
+    height: 45px !important;
+}
+
+.ip-details {
+    background-color: #f6f5fa;
+    height: 100%;
+    width: 100%;
+    margin: 0em;
+    padding: 10px 30px 50px 40px;
+}
+
+.ip-details-content {
+    height: 500px;
+}
+
+.ip-details-content .pre-data {
+    height: 100%;
+    width: 100%;
+    margin: 0em;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-align: justify;
+}
+
+.response-status {
+    position: relative;
+    float: right;
+    top: 20px;
+}
+
+.hero {
+    padding-top: 110px;
+}
