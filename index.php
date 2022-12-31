@@ -72,7 +72,7 @@ $App = new webxspark;
                             Try it for free
                             <i class="fa fa-arrow-down"></i>
                         </section>
-                        <div class="card">
+                        <div class="card search-box">
                             <div class="card-body">
                                 <form method="POST">
                                     <div class="input-group">

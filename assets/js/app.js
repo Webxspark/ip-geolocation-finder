@@ -12,6 +12,11 @@ var app = {
         $('[try]').click(() => {
             $('[type="search"]').focus();
             Wxp_DOM.scroll('[type="search"]');
+            Wxp_DOM.showWarning('.search-box',{
+                flicker: 1,
+                interval: 2000,
+                color: '#3b71ca'                
+            })
         })
         $('form').submit(e => {
             app.handleFormSubmit();
